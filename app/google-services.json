@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "594284671556",
+    "firebase_url": "https://antrease-b0d36-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "antrease-b0d36",
+    "storage_bucket": "antrease-b0d36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594284671556:android:80caeafe36c6b53f09c211",
+        "android_client_info": {
+          "package_name": "com.muhsanjaved.adminwavesoffood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAjSz6rHuYfemGJDWgxLOVfnlJIakal3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594284671556:android:a76f3e86e2cf656109c211",
+        "android_client_info": {
+          "package_name": "com.muhsanjaved.wavesoffood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAjSz6rHuYfemGJDWgxLOVfnlJIakal3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
